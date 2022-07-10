@@ -1,5 +1,9 @@
 ## qiankun 微前端框架搭建测试
 
+### 效果
+
+![效果](./effect.gif)
+
 ### 结构
 
 - microapp-main 主应用
